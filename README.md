@@ -1,3 +1,6 @@
+# Review
+Quite a lot of new syntax to learn here but after finding some clearer examples I was able to make use of hashes and mappings.
+
 # RNA Transcription
 
 Given a DNA strand, return its RNA complement (per RNA transcription).
